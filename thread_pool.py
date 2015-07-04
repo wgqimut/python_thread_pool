@@ -4,41 +4,6 @@ import time
 
 __author__ = 'ilbsmart'
 
-
-# import threading
-#
-# def thread_func(num):
-#     print "hello, this thread name is {}".format(threading.currentThread().name)
-#
-#
-#     print "the thread {} is ended".format(threading.currentThread().name)
-#
-#
-# def create_threads(n):
-#
-#     for i in range(1, n):
-#         t = threading.Thread()
-#         threads.append(t)
-#
-#
-# def start_threads():
-#     for i in threads:
-#         i.start()
-#
-#
-# def main():
-#     print "this thread name is {}".format(threading.currentThread().name)
-#
-#     create_threads(10)
-#     start_threads()
-#
-#     for i in threads:
-#         i.join()
-#
-# if __name__ == '__main__':
-#     threads = []
-#     main()
-
 import Queue
 import threading
 
