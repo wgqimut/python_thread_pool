@@ -1,5 +1,0 @@
-Python_thread_pool
-
-just for fun
-
-create by ilbsmart
